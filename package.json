@@ -1,0 +1,26 @@
+{
+  "name": "harrisburg_osm_geojson",
+  "version": "0.1.0",
+  "description": "Download Harrisburg OSM data from Mapzen Metro Extracts",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbley/harrisburg_osm_geojson.git"
+  },
+  "author": "Christopher Bley <chrisbley@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbley/harrisburg_osm_geojson/issues"
+  },
+  "homepage": "https://github.com/cbley/harrisburg_osm_geojson#readme",
+  "devDependencies": {
+    "async": "^1.4.2",
+    "gulp": "^3.9.0",
+    "request": "^2.61.0",
+    "unzip": "^0.1.11",
+    "xml2js": "^0.4.10"
+  }
+}
